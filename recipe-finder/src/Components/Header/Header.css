@@ -1,0 +1,24 @@
+.header{
+    background-image: url("/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 6px black;
+    background-position: center;
+}
+.header section{
+    padding: 100px 100px;
+    
+}
+.header section h3{
+    color: chocolate;
+    font-weight: bolder;
+}
+.header section h2{
+    color: rgb(181, 6, 6);
+    font-size: 20px;
+    max-width: 40%;
+    font-weight: 800;
+}

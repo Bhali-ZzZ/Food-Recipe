@@ -1,0 +1,260 @@
+[
+    {
+      "id": "1",
+      "title": "Apricot Salsa",
+      "steps": [
+        "Chop apricots into small pieces.",
+        "Combine with chopped tomatoes, onions, and cilantro.",
+        "Add lime juice and salt to taste.",
+        "Mix well and refrigerate before serving."
+      ],
+      "image": "/apricot salsa.png",
+      "description": "A fresh and fruity salsa perfect for summer.",
+      "ingredients": [
+        "4 apricots",
+        "2 tomatoes",
+        "1 onion",
+        "1/4 cup cilantro",
+        "1 lime",
+        "Salt"
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Asian Lettuce Wraps",
+      "steps": [
+        "Cook ground chicken in a pan until no longer pink.",
+        "Add diced water chestnuts, green onions, and hoisin sauce.",
+        "Cook until heated through.",
+        "Spoon mixture into lettuce leaves and serve."
+      ],
+      "image": "/asian lettuce wraps.png",
+      "description": "Light and flavorful wraps using fresh lettuce leaves.",
+      "ingredients": [
+        "1 lb ground chicken",
+        "1 can water chestnuts",
+        "2 green onions",
+        "1/4 cup hoisin sauce",
+        "Lettuce leaves"
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Lettuce Wraps",
+      "steps": [
+        "Cook diced chicken breast in a pan until no longer pink.",
+        "Add soy sauce, garlic, and ginger.",
+        "Cook until flavors are combined.",
+        "Serve in lettuce leaves with shredded carrots and cilantro."
+      ],
+      "image": "/Chicken Lettuce Wraps.png",
+      "description": "Delicious and healthy chicken wraps with fresh veggies.",
+      "ingredients": [
+        "2 chicken breasts",
+        "2 tbsp soy sauce",
+        "2 garlic cloves",
+        "1 tbsp ginger",
+        "Shredded carrots",
+        "Cilantro",
+        "Lettuce leaves"
+      ],
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "4",
+      "title": "Chicken Noodle Salad",
+      "steps": [
+        "Cook rice noodles according to package instructions.",
+        "Grill chicken breast and slice into thin strips.",
+        "Toss noodles with chicken, bell peppers, and cucumbers.",
+        "Add a dressing made from soy sauce, lime juice, and sesame oil."
+      ],
+      "image": "/chicken noodle salad.png",
+      "description": "A refreshing salad with noodles, chicken, and fresh vegetables.",
+      "ingredients": [
+        "200g rice noodles",
+        "1 chicken breast",
+        "1 bell pepper",
+        "1 cucumber",
+        "2 tbsp soy sauce",
+        "1 lime",
+        "1 tbsp sesame oil"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "5",
+      "title": "Green Gazpacho",
+      "steps": [
+        "Blend cucumbers, green bell peppers, garlic, and parsley.",
+        "Add olive oil and vinegar while blending.",
+        "Chill in the refrigerator for at least 2 hours.",
+        "Serve cold, garnished with parsley."
+      ],
+      "image": "/green gazpacho.png",
+      "description": "A cool and refreshing green vegetable soup.",
+      "ingredients": [
+        "2 cucumbers",
+        "2 green bell peppers",
+        "2 garlic cloves",
+        "1/4 cup parsley",
+        "1/4 cup olive oil",
+        "2 tbsp vinegar"
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "6",
+      "title": "Lemon Syllabub",
+      "steps": [
+        "Combine lemon juice, sugar, and white wine in a bowl.",
+        "Whisk until sugar is dissolved.",
+        "Add heavy cream and whisk until soft peaks form.",
+        "Refrigerate before serving."
+      ],
+      "image": "/lemon syllabub.png",
+      "description": "A light and creamy dessert with a hint of lemon.",
+      "ingredients": [
+        "1/4 cup lemon juice",
+        "1/4 cup sugar",
+        "1/4 cup white wine",
+        "1 cup heavy cream"
+      ],
+      "cookingTime": "15 minutes"
+    },
+    {
+      "id": "7",
+      "title": "Ranch Chicken Tacos",
+      "steps": [
+        "Cook chicken breast and shred.",
+        "Mix shredded chicken with ranch dressing.",
+        "Fill taco shells with chicken mixture.",
+        "Top with lettuce, cheese, and tomatoes."
+      ],
+      "image": "/ranch chicken tacos.png",
+      "description": "Tasty tacos with a creamy ranch chicken filling.",
+      "ingredients": [
+        "2 chicken breasts",
+        "1/2 cup ranch dressing",
+        "Taco shells",
+        "Lettuce",
+        "Cheese",
+        "Tomatoes"
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "8",
+      "title": "Saigon Noodle Salad",
+      "steps": [
+        "Cook rice noodles according to package instructions.",
+        "Mix cooked noodles with shrimp, bean sprouts, and carrots.",
+        "Prepare a dressing with fish sauce, lime juice, and sugar.",
+        "Toss salad with dressing and garnish with mint leaves."
+      ],
+      "image": "/Saigon Noodle Salad.png",
+      "description": "A flavorful Vietnamese-style noodle salad.",
+      "ingredients": [
+        "200g rice noodles",
+        "1 cup shrimp",
+        "1 cup bean sprouts",
+        "2 carrots",
+        "2 tbsp fish sauce",
+        "1 lime",
+        "1 tbsp sugar",
+        "Mint leaves"
+      ],
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "9",
+      "title": "Salmon Cobb Salad",
+      "steps": [
+        "Grill salmon fillet and flake into pieces.",
+        "Combine mixed greens, hard-boiled eggs, avocado, and bacon.",
+        "Add blue cheese and cherry tomatoes.",
+        "Top with salmon and drizzle with vinaigrette."
+      ],
+      "image": "/salmon cobb salad.png",
+      "description": "A hearty salad with salmon, eggs, and fresh vegetables.",
+      "ingredients": [
+        "1 salmon fillet",
+        "Mixed greens",
+        "2 hard-boiled eggs",
+        "1 avocado",
+        "2 slices bacon",
+        "1/4 cup blue cheese",
+        "Cherry tomatoes",
+        "Vinaigrette"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "10",
+      "title": "Summer Grilled Salad",
+      "steps": [
+        "Grill assorted vegetables such as zucchini, bell peppers, and onions.",
+        "Chop grilled vegetables and mix with arugula.",
+        "Add feta cheese and olives.",
+        "Toss with a lemon vinaigrette."
+      ],
+      "image": "/summer grilled salad.png",
+      "description": "A vibrant salad with grilled summer vegetables.",
+      "ingredients": [
+        "2 zucchinis",
+        "2 bell peppers",
+        "1 onion",
+        "Arugula",
+        "1/2 cup feta cheese",
+        "1/4 cup olives",
+        "Lemon vinaigrette"
+      ],
+      "cookingTime": "25 minutes"
+    },
+    {
+      "id": "11",
+      "title": "Summer Watermelon Gazpacho",
+      "steps": [
+        "Blend watermelon, cucumber, and bell pepper.",
+        "Add olive oil, vinegar, and salt.",
+        "Chill in the refrigerator for at least 2 hours.",
+        "Serve cold, garnished with mint leaves."
+      ],
+      "image": "/summer watermelon gazpacho.png",
+      "description": "A refreshing and sweet gazpacho with watermelon.",
+      "ingredients": [
+        "4 cups watermelon",
+        "1 cucumber",
+        "1 bell pepper",
+        "1/4 cup olive oil",
+        "2 tbsp vinegar",
+        "Salt",
+        "Mint leaves"
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "12",
+      "title": "Turkey Wraps",
+      "steps": [
+        "Spread mayonnaise on a tortilla.",
+        "Add sliced turkey, lettuce, and tomato.",
+        "Roll up the tortilla and slice into halves.",
+        "Serve with a side of pickles."
+      ],
+      "image": "/Turkey Wraps.png",
+      "description": "Quick and easy wraps with turkey and fresh vegetables.",
+      "ingredients": [
+        "Tortillas",
+        "Mayonnaise",
+        "Sliced turkey",
+        "Lettuce",
+        "Tomato",
+        "Pickles"
+      ],
+      "cookingTime": "10 minutes"
+    }
+  ]
+  

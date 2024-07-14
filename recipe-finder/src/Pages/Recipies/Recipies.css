@@ -1,0 +1,41 @@
+.buttons {
+    margin: 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .btns {
+    flex: 0 1 auto;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8; 
+  }
+  .recipies{
+    margin: 20px 0;
+  }
+  .recipies  .recipe-title{
+    text-align: center;
+  }
+  .recipies  .recipe-title img{
+    width: 250px;
+    height: 200px;
+  }
+  .recipies  .recipe-title p{
+    color: crimson;
+  }
+  .recipies  .recipe-title h4{
+    color: rgb(57, 55, 55);
+  }
+  
